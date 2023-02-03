@@ -1,4 +1,10 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 "ALX"
+=======
+"ALC"
+#!/bin/bash
+echo "ALX School is so cool!"
+>>>>>>> c77a4d3f3dec34d05e903bf6acde9c1c6993427a
 
